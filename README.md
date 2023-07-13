@@ -1,6 +1,7 @@
 # Selflearning_AI
 
-### torch_test.ipynb 為網路上基礎項目實作  
+### torch_test.ipynb  
+為網路上基礎項目實作  
 ### YoloV7訓練整理.ipynb  
 為訓練與推倒YoloV7模型用python改參數，不用特別去改檔案  
 ### YOLO資料夾  
